@@ -5,3 +5,4 @@ The entities are Meci, Bilet and Casier - there is no use to put them here, you 
 Using -Spring & beans (see Meci.xml)
       -connection to DB (I used sqlite as you can see in the config)
       
+JDBCUtils is a class used for connecting to DB
